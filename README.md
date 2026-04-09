@@ -18,6 +18,9 @@ Given three integers representing the sides of a triangle, the program must clas
 Create a virtual environment and install dependencies:
 
 ```bash
-python -m venv venv
+Criar ambiente virtual: python -m venv venv
 source venv/bin/activate   # Linux/macOS
 pip install pytest
+Ativar: .\venv\Scripts\activate.bat (faz sempre que for começar a trabalhar). # windows
+Desativar ambiente virtuap: deactivate (faz quando terminar ou quiser mudar de projeto).
+
